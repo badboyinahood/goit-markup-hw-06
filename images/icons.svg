@@ -1,5 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" style="position:absolute;width:0;height:0;overflow:hidden">
   <defs>
+    <symbol id="icon-menu-open" viewBox="0 0 32 32">
+      <path d="M4.8 8a1.6 1.6 0 0 1 1.6-1.6h19.2a1.6 1.6 0 0 1 0 3.2H6.4A1.6 1.6 0 0 1 4.8 8zM4.8 16a1.6 1.6 0 0 1 1.6-1.6h19.2a1.6 1.6 0 0 1 0 3.2H6.4A1.6 1.6 0 0 1 4.8 16zM4.8 24a1.6 1.6 0 0 1 1.6-1.6h19.2a1.6 1.6 0 0 1 0 3.2H6.4A1.6 1.6 0 0 1 4.8 24z"/>
+    </symbol>
     <symbol id="icon-telegram" viewBox="0 0 32 32">
       <path fill="#fff" d="m32 2.67-32 15 10.23 3.15L26 8.5 14 21.99h.01H14v7.34l5.74-5.57L27 26l5-23.33z" style="fill:var(--color1, #fff)"/>
     </symbol>
